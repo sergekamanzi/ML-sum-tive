@@ -67,7 +67,7 @@ To get the Wine Quality Prediction API running locally, follow these steps:
    ```
 
 6. **Access the API**:
-   - Swagger UI: [https://ml-sum-tive.onrender.com/docs](http://127.0.0.1:8000/docs)
+   - Swagger UI: [https://ml-sum-tive.onrender.com](http://127.0.0.1:8000/docs)
 
 ---
 
