@@ -63,7 +63,7 @@ To get the Wine Quality Prediction API running locally, follow these steps:
 
 4. **Run the FastAPI server**:
    ```bash
-   uvicorn app:app --reload
+   python -m uvicorn app:app --reload
    ```
 
 6. **Access the API**:
